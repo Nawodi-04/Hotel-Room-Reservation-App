@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleTxt" type="id" />
+    <item name="img" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="confirmDateButton" type="id" />
+</resources>

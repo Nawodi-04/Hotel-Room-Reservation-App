@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Reservation_App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/Lavendra</item>
+    </style>
+
+    <style name="Theme.Reservation_App" parent="Base.Theme.Reservation_App" />
+</resources>
